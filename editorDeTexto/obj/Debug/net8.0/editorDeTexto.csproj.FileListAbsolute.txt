@@ -1,0 +1,14 @@
+C:\Users\Caio\source\repos\editorDeTexto\bin\Debug\net8.0\editorDeTexto.exe
+C:\Users\Caio\source\repos\editorDeTexto\bin\Debug\net8.0\editorDeTexto.deps.json
+C:\Users\Caio\source\repos\editorDeTexto\bin\Debug\net8.0\editorDeTexto.runtimeconfig.json
+C:\Users\Caio\source\repos\editorDeTexto\bin\Debug\net8.0\editorDeTexto.dll
+C:\Users\Caio\source\repos\editorDeTexto\bin\Debug\net8.0\editorDeTexto.pdb
+C:\Users\Caio\source\repos\editorDeTexto\obj\Debug\net8.0\editorDeTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio\source\repos\editorDeTexto\obj\Debug\net8.0\editorDeTexto.AssemblyInfoInputs.cache
+C:\Users\Caio\source\repos\editorDeTexto\obj\Debug\net8.0\editorDeTexto.AssemblyInfo.cs
+C:\Users\Caio\source\repos\editorDeTexto\obj\Debug\net8.0\editorDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\Caio\source\repos\editorDeTexto\obj\Debug\net8.0\editorDeTexto.dll
+C:\Users\Caio\source\repos\editorDeTexto\obj\Debug\net8.0\refint\editorDeTexto.dll
+C:\Users\Caio\source\repos\editorDeTexto\obj\Debug\net8.0\editorDeTexto.pdb
+C:\Users\Caio\source\repos\editorDeTexto\obj\Debug\net8.0\editorDeTexto.genruntimeconfig.cache
+C:\Users\Caio\source\repos\editorDeTexto\obj\Debug\net8.0\ref\editorDeTexto.dll
